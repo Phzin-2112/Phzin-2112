@@ -1,6 +1,6 @@
 <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ea%C3%AD+blz%3F+Sou+Phzin.+.+." alt="Typing SVG" /></a> </h1>
 
-<h2> 💻 Ferramentas e Tecnologias </h2>
+
 <!--
 **phzin2112/phzin2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
