@@ -7,4 +7,4 @@
 -  Futuro Dev...
 -  [Email](pedrofeliz2701@gmail.com)
 -  [Projetomed](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)<br>
-  Bem-vindo ao Phzin! Este é o meu repositório no GitHub, onde compartilho meus <br>projetos e experimentos no mundo da programação. Aqui você encontrará soluções<br> criativas, códigos bem estruturados e muitas ideias para inspirar seus próprios <br>projetos. Sinta-se à vontade para explorar, colaborar e aprender! 
+  Bem-vindo ao Phzin! Este é o meu perfil no GitHub, onde compartilho meus <br>projetos e experimentos no mundo da programação. Aqui você encontrará soluções<br> criativas, códigos bem estruturados e muitas ideias para inspirar seus próprios <br>projetos. Sinta-se à vontade para explorar, colaborar e aprender! 
