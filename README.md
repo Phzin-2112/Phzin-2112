@@ -9,8 +9,8 @@
 ### Contato:
 -  [Email](pedrofeliz2701@gmail.com) 
 ### Projetos:
--  [LittleSnake](https://phzin-2112.github.io/little-snake/jogo/index.html) <img  align="center" src="https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32"/>
--  [ProjetoMed](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)  <img  align="center" src="https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4"/>
+-  [LittleSnake](https://phzin-2112.github.io/little-snake/index.html) <img  align="center" src="https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32"/>
+-  [ProjetoMed]([https://phzin-2112.github.io/ProjetoMed-Pedro/index.html])  <img  align="center" src="https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4"/>
 -  [pizaaaaa](https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html)  <img  align="center" src="https://img.shields.io/badge/Pizza-E34F26?style=for-the-badge&color=red"/>
    <br>
 
