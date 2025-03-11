@@ -11,6 +11,7 @@
 ### Projetos:
 -  [LittleSnake](https://phzin-2112.github.io/little-snake/jogo/index.html) <img  align="center" src="https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32"/>
 -  [ProjetoMed](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)  <img  align="center" src="https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4"/>
+-  [pizaaaaa](https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html)  <img  align="center" src="https://img.shields.io/badge/Pizza-E34F26?style=for-the-badge&color=red"/>
    <br>
 
 Bem-vindo ao meu Perfil!! Este é o meu perfil no GitHub, onde compartilho meus projetos e experimentos no mundo da programação. Aqui você encontrará soluções criativas, códigos bem estruturados e muitas ideias para inspirar seus próprios projetos. Sinta-se à vontade para explorar, colaborar e aprender!
