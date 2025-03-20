@@ -39,12 +39,12 @@ Estou começando minha jornada no desenvolvimento de software e explorando vári
 </div>
 
 <div>
-Loanding Snake Status
-</div>
-<div>
-  <picture align="center">    
-    <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg">
-  </picture>
-</div>    
+ Loanding Snake Status
+ </div>
+ <div>
+   <picture align="center">    
+     <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg">
+   </picture>
+ </div>    
 
 
