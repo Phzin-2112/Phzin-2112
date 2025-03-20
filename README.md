@@ -7,12 +7,13 @@
 -  Futuro Dev...
 
 ### Contato:
--  [Email](pedrofeliz2701@gmail.com) 
+ - [![E-mail](https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=01c3f3)](pedrofeliz2701@gmail.com)
+   
 ### Projetos:
--  [LittleSnake](https://phzin-2112.github.io/little-snake/index.html) <img  align="center" src="https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32"/>
--  [ProjetoMed](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)  <img  align="center" src="https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4"/>
--  [pizaaaaa](https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html)  <img  align="center" src="https://img.shields.io/badge/Pizza-E34F26?style=for-the-badge&color=red"/>
-   <br>
+- [![LittleSnake](https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32)](https://phzin-2112.github.io/little-snake/index.html)
+- [![ProjetoMed](https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4)](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)
+- [![Pizza](https://img.shields.io/badge/Pizza-E34F26?style=for-the-badge&color=red)](https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html)
+ <br>
 
 Bem-vindo ao meu Perfil!! Este é o meu perfil no GitHub, onde compartilho meus projetos e experimentos no mundo da programação. Aqui você encontrará soluções criativas, códigos bem estruturados e muitas ideias para inspirar seus próprios projetos. Sinta-se à vontade para explorar, colaborar e aprender!
 Estou começando minha jornada no desenvolvimento de software e explorando várias linguagens de programação, como JavaScript, HTML, Java, C# e C++. Cada uma delas tem me ensinado algo novo e me desafiado a criar soluções diferentes. Com JavaScript, tenho aprendido a criar sites dinâmicos, enquanto o HTML me ajuda a estruturar e organizar as páginas. No Java e no C#, estou começando a entender como construir sistemas mais complexos, o que tem sido uma experiência muito enriquecedora.
