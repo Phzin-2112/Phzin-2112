@@ -7,7 +7,7 @@
 -  Futuro Dev...
 
 ### Contato:
- - [![E-mail](https://img.shields.io/badge/E-mail-E34F26?style=for-the-badge&color=01c3f3)](pedrofeliz2701@gmail.com)
+ - [![E-mail](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3)](pedrofeliz2701@gmail.com)
    
 ### Projetos:
 - [![LittleSnake](https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32)](https://phzin-2112.github.io/little-snake/index.html)
