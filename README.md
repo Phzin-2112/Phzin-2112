@@ -7,12 +7,12 @@
 -  Futuro Dev...
 
 ### Contato:
- - [![E-mail](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3)](pedrofeliz2701@gmail.com)
+  [![E-mail](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3)](pedrofeliz2701@gmail.com)
    
 ### Projetos:
-- [![LittleSnake](https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32)](https://phzin-2112.github.io/little-snake/index.html)
-- [![ProjetoMed](https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4)](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)
-- [![Pizza](https://img.shields.io/badge/Pizza-E34F26?style=for-the-badge&color=red)](https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html)
+ [![LittleSnake](https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32)](https://phzin-2112.github.io/little-snake/index.html)
+ [![ProjetoMed](https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4)](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)
+ [![Pizza](https://img.shields.io/badge/Pizza-E34F26?style=for-the-badge&color=red)](https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html)
  <br>
 
 Bem-vindo ao meu Perfil!! Este é o meu perfil no GitHub, onde compartilho meus projetos e experimentos no mundo da programação. Aqui você encontrará soluções criativas, códigos bem estruturados e muitas ideias para inspirar seus próprios projetos. Sinta-se à vontade para explorar, colaborar e aprender!
