@@ -39,7 +39,6 @@ Estou começando minha jornada no desenvolvimento de software e explorando vári
 </div>
 
 <div>
- Loanding Snake Status
  </div>
  <div>
    <picture align="center">    
