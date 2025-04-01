@@ -1,10 +1,10 @@
 <h1> <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ea%C3%AD+blz%3F+Sou+Phzin.+.+.💻" alt="Typing SVG" /></a> </h1>
 <h1>Programador</h1>
 
--  Cursando DS/Senai Vila Leopoldina-
--  CPTM - DFHD-
--  Estudando sempre-
--  Desenvolvedor Back-end-
+-  Cursando DS/Senai Vila Leopoldina -
+-  CPTM - DFHD -
+-  Estudando sempre -
+-  Desenvolvedor Back-end -
 
 ### Contato:
   [![E-mail](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3)](pedrofeliz2701@gmail.com)
