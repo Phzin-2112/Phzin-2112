@@ -4,7 +4,7 @@
 -  Cursando DS/Senai Vila Leopoldina -
 -  CPTM - DFHD -
 -  Estudando sempre -
--  Desenvolvedor Back-end -
+-  Desenvolvedor BackEnd -
 
 ### Contato:
   [![E-mail](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3)](pedrofeliz2701@gmail.com)
