@@ -7,8 +7,10 @@
 -  Desenvolvedor Back-end 
 
 ### Contato:
-  [![E-mail](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpccrKBKpcQbMZvLGLLRPmWGFRVzCBKDQhszPkWgrXDsKRCckLClPfHbqsDlZjflxNPVXG)
-   
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrohenriquepeco@gmail.com&su=Olá&body=Mensagem%20automática" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3" alt="E-mail">
+</a>
+
 ### Projetos:
  [![LittleSnake](https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32)](https://phzin-2112.github.io/little-snake/index.html)
  [![ProjetoMed](https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4)](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)
