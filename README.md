@@ -7,7 +7,7 @@
 -  Desenvolvedor Back-end 
 
 ### Contato:
-  [![E-mail](https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3)](pedrofeliz2701@gmail.com)
+  [![E-mail]([https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRpccrKBKpcQbMZvLGLLRPmWGFRVzCBKDQhszPkWgrXDsKRCckLClPfHbqsDlZjflxNPVXG))]
    
 ### Projetos:
  [![LittleSnake](https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32)](https://phzin-2112.github.io/little-snake/index.html)
