@@ -1,52 +1,70 @@
-<h1> <a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=635&lines=Ea%C3%AD+blz%3F+Sou+Phzin.+.+.+o+Dev+do+Momento+" alt="Typing SVG" /></a> </h1>
-<h1>Programador</h1>
+<div align="center">
+  
+  <h1>
+    <a>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=635&lines=Ea%C3%AD+blz%3F+Sou+Phzin...+o+Dev+do+Momento+" alt="Typing SVG" />
+    </a>
+  </h1>
 
--  Cursando DS/Senai Vila Leopoldina 
--  CPTM - DFHD 
--  Estudando sempre 
--  Desenvolvedor Back-end 
+  <h1>Desenvolvedor FullStack</h1>
 
-### Contato:
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrohenriquepeco@gmail.com&su=Olá&body=Mensagem%20automática" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3" alt="E-mail">
-</a>
+  <h3>Contato:</h3>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrohenriquepeco@gmail.com&su=Olá&body=Mensagem%20automática" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3" alt="E-mail">
+  </a>
 
-### Projetos:
- [![LittleSnake](https://img.shields.io/badge/LittleSnake-E34F26?style=for-the-badge&color=32CD32)](https://phzin-2112.github.io/little-snake/index.html)
- [![ProjetoMed](https://img.shields.io/badge/ProjetoMed-E34F26?style=for-the-badge&color=4682B4)](https://phzin-2112.github.io/ProjetoMed-Pedro/index.html)
- [![Pizza](https://img.shields.io/badge/Pizza-E34F26?style=for-the-badge&color=red)](https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html)
- <br>
+<h3 align="center">Projetos</h3>
 
-Bem-vindo ao meu Perfil!! Este é o meu perfil no GitHub, onde compartilho meus projetos e experimentos no mundo da programação. Aqui você encontrará soluções criativas, códigos bem estruturados e muitas ideias para inspirar seus próprios projetos. Sinta-se à vontade para explorar, colaborar e aprender!
-Estou começando minha jornada no desenvolvimento de software e explorando várias linguagens de programação, como JavaScript, HTML, Java, C# e C++. Cada uma delas tem me ensinado algo novo e me desafiado a criar soluções diferentes. Com JavaScript, tenho aprendido a criar sites dinâmicos, enquanto o HTML me ajuda a estruturar e organizar as páginas. No Java e no C#, estou começando a entender como construir sistemas mais complexos, o que tem sido uma experiência muito enriquecedora.
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
 
-### Minhas Staks:
-<div style="display: inline_block">
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/></code>
-  <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
- <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
+  <a href="https://phzin-2112.github.io/little-snake/index.html" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LittleSnake-32CD32?style=for-the-badge&alt="LittleSnake"style="border-radius: 10%;">
+  </a>
+
+  <a href="https://phzin-2112.github.io/ProjetoMed-Pedro/index.html" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/ProjetoMed-4682B4?style=for-the-badge&alt="ProjetoMed" style="border-radius: 10%;">
+  </a>
+
+  <a href="https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Pizza-FF4500?style=for-the-badge&alt="Pizza" style="border-radius: 10%;">
+  </a>
+
 </div>
 
 
-### Estatísticas:
+  <br><br>
 
-<div>
-  <a href="https://github.com/Phzin-2112"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phzin-2112&layout=compact&langs_count=7&theme=dracula"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phzin-2112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <p>
+    Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código 💻🚀
+  </p>
+
+  <h3>Minhas Stacks:</h3>
+  <div style="display: inline_block;">
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
+    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
+    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/></code>
+    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/></code>
+    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/></code>
+  </div>
+
+  <br><br>
+
+  <h3>Estatísticas:</h3>
+  <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phzin-2112&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phzin-2112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </div>
+
+  <br>
+
+  <picture align="center">    
+    <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg" alt="Snake animation">
+  </picture>
+
 </div>
-
-<div>
- </div>
- <div>
-   <picture align="center">    
-     <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg">
-   </picture>
- </div>    
-
-
