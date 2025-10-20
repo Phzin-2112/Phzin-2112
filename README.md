@@ -52,7 +52,6 @@
     <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/></code>
     <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/></code>
     <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin"/></code>
-    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="POO"/></code>
     <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio"/></code>
     <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code"/></code>
     <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgres"/></code>
