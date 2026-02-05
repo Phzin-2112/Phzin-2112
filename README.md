@@ -1,76 +1,87 @@
 <div align="center">
-  
+
   <h1>
-    <a>
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=635&lines=Ea%C3%AD+blz%3F+Sou+Phzin...+o+Dev+do+Momento+" alt="Typing SVG" />
-    </a>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Ea%C3%AD+blz%3F+Sou+Phzin.;Desenvolvedor+Full+Stack.;Code.+Create.+Evolve." 
+      alt="Typing SVG"
+    />
   </h1>
 
-  <h1>Desenvolvedor FullStack</h1>
+  <h3>💻 Full Stack Developer | Clean Code | Performance</h3>
 
-  <h3>Contato:</h3>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrohenriquepeco@gmail.com&su=Olá&body=Mensagem%20automática" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-E34F26?style=for-the-badge&color=01c3f3" alt="E-mail">
+  <br>
+
+  <p>
+    <i>Transformando ideias em código funcional, escalável e bonito de manter.</i>
+  </p>
+
+  <br>
+
+  <!-- Contato -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pedrohenriquepeco@gmail.com&su=Olá&body=Mensagem%20automática" target="_blank">
+    <img src="https://img.shields.io/badge/Contato-Email-00F7FF?style=for-the-badge">
   </a>
 
-<h3 align="center">Projetos</h3>
+  <br><br><br>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <!-- Sobre mim -->
+  <h2>⚡ Sobre mim</h2>
 
-  <a href="https://phzin-2112.github.io/little-snake/index.html" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LittleSnake-32CD32?style=for-the-badge&alt="LittleSnake"style="border-radius: 10%;">
-  </a>
+  <p align="center" style="max-width:850px;">
+    Minha caminhada na tecnologia foi construída no código, não só na teoria.
+    Atuo como Desenvolvedor <b>Full Stack</b> há dois anos, trabalhando do
+    <b>back-end</b> ao <b>front-end</b>, entregando sistemas completos do zero
+    à produção.
+  </p>
 
-  <a href="https://phzin-2112.github.io/ProjetoMed-Pedro/index.html" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/ProjetoMed-4682B4?style=for-the-badge&alt="ProjetoMed" style="border-radius: 10%;">
-  </a>
+  <p align="center" style="max-width:850px;">
+    Tenho experiência com <b>SQL</b>, <b>Spring Boot</b>, arquitetura de redes
+    e desenvolvimento de aplicações pensadas para escalar, performar e durar.
+    Cada projeto fortaleceu minha visão de engenharia, organização e responsabilidade.
+  </p>
 
-  <a href="https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Pizza-FF4500?style=for-the-badge&alt="Pizza" style="border-radius: 10%;">
-  </a>
-
-</div>
-
+  <p align="center" style="max-width:850px;">
+    Sou movido por evolução constante, código limpo e soluções que resolvem
+    problemas reais — sempre buscando subir o nível.
+  </p>
 
   <br><br>
 
-  <p>
-    Desenvolvedor apaixonado por tecnologia, inovação e boas práticas de código 💻🚀
-  </p>
+  <!-- Projetos -->
+  <h2>🧠 Projetos</h2>
 
-  <h3>Minhas Stacks:</h3>
-  <div style="display: inline_block;">
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring Boot"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/></code>
-    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/></code>
-    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/></code>
-    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/></code>
-    <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="Kotlin"/></code>
-    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio"/></code>
-    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code"/></code>
-    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="Postgres"/></code>
-    <code><img width="40px" style="margin:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL"/></code>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;"> <a href="https://phzin-2112.github.io/little-snake/index.html" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/LittleSnake-32CD32?style=for-the-badge&alt="LittleSnake"style="border-radius: 10%;"> </a> <a href="https://phzin-2112.github.io/ProjetoMed-Pedro/index.html" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/ProjetoMed-4682B4?style=for-the-badge&alt="ProjetoMed" style="border-radius: 10%;"> </a> <a href="https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html" target="_blank" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Pizza-FF4500?style=for-the-badge&alt="Pizza" style="border-radius: 10%;"> </a> </div>
+
+  <br><br>
+
+  <!-- Stack -->
+  <h2>🧩 Stack</h2>
+
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:12px;">
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   </div>
 
   <br><br>
 
-  <h3>Estatísticas:</h3>
+  <!-- Stats -->
+  <h2>📊 Stats</h2>
+
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phzin-2112&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phzin-2112&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phzin-2112&layout=compact&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phzin-2112&show_icons=true&theme=dracula"/>
   </div>
 
   <br>
 
-  <picture align="center">    
-    <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg" alt="Snake animation">
-  </picture>
+<picture align="center"> <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg" alt="Snake animation"> </picture>
 
 </div>
