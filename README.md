@@ -59,11 +59,10 @@ Projeto front-end com foco em layout, responsividade e organização visual.
 🔗 https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html  
 
 ---
-<div align="center">
+
 ## 🧩 Main Stacks
 
-
-
+<div align="center">
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
 <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -79,6 +78,16 @@ Projeto front-end com foco em layout, responsividade e organização visual.
 ---
 
 ## 📈 O que você pode esperar de mim
+
+- Clean code  
+- Commitment to delivery
+- Engineer mindset, not just programmer mindset
+- Constant evolution
+
+---
+
+<br> <picture align="center"> <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg" alt="Snake animation"> </picture> </div>
+
 
 - Clean code  
 - Commitment to delivery
