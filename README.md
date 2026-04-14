@@ -89,11 +89,3 @@ Projeto front-end com foco em layout, responsividade e organização visual.
 <br> <picture align="center"> <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg" alt="Snake animation"> </picture> </div>
 
 
-- Clean code  
-- Commitment to delivery
-- Engineer mindset, not just programmer mindset
-- Constant evolution
-
----
-
-<br> <picture align="center"> <img src="https://github.com/Phzin-2112/Phzin-2112/blob/main/snake-dark.svg" alt="Snake animation"> </picture> </div>
