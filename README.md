@@ -46,20 +46,17 @@ Estou sempre evoluindo, estudando e subindo o nível técnico.
 Jogo clássico recriado com foco em lógica e manipulação de DOM.  
 🔗 https://phzin-2112.github.io/little-snake/index.html  
 
----
 
 ### 🏥 ProjetoMed  
 Sistema web com estrutura organizada e foco em experiência do usuário.  
 🔗 https://phzin-2112.github.io/ProjetoMed-Pedro/index.html  
 
----
 
 ### 🍕 Pizza  
 Projeto front-end com foco em layout, responsividade e organização visual.  
 🔗 https://phzin-2112.github.io/pizzaaaaaaaa/Pizza-main/index.html  
 
 ---
-
 ## 🧩 Main Stacks
 
 <div align="center">
@@ -75,14 +72,13 @@ Projeto front-end com foco em layout, responsividade e organização visual.
 
 </div>
 
----
 
 ## 📈 O que você pode esperar de mim
 
-- Clean code  
-- Commitment to delivery
-- Engineer mindset, not just programmer mindset
-- Constant evolution
+- Código Limpo 
+- Compromisso com a entrega
+- Mentalidade de engenheiro, não apenas de programador
+- Evolução Constante
 
 ---
 
