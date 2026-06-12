@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge">
 </a>
   &nbsp;&nbsp;&nbsp;
-<a href="www.linkedin.com/in/pedro-devfullstack">
+<a href="https://www.linkedin.com/in/pedro-devfullstack/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge">
 </a>
 
